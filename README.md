@@ -1,7 +1,4 @@
 Hello! I'm Jeyciane Faria
- 
-
-Rafa-Js Rafa-Ts Rafa-React Rafa-HTML Rafa-CSS Rafa-Python Rafa-CsharpRafa-yoda
    
 Animação de cobra
 
