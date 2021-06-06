@@ -4,9 +4,9 @@
  
  <div>
   <a href="https://github.com/JeycianeFaria">
-   <img align="right" alt="Jeyci-Js" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img height = "165em" src = "https://github-readme-stats.vercel.app/api?username=JeycianeFaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "165em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JeycianeFaria&layout=compact&langs_count=16&theme=dracula" />
+  <img align="right" alt="Jeyci-Js" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img height = "160em" src = "https://github-readme-stats.vercel.app/api?username=JeycianeFaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JeycianeFaria&layout=compact&langs_count=16&theme=dracula" />
 </div>
  
  <div>
