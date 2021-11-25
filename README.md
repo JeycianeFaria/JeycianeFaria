@@ -9,6 +9,12 @@
 </div>
  
  <div>
+ <h1 align="center"> Visitantes </h1>
+ <p align="center">   
+ <img alingn="center" src="https://profile-counter.glitch.me/JeycianeFaria/count.svg" /></p>
+ </div>
+ 
+ <div>
   <h2>My Skills</h2>
  
   <img align="center" alt="Jeyci-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
